@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         GitHub仓库大小检测按钮
-// @namespace    olsd-namespace
+// @namespace    zuxtuo-namespace
 // @version      1.1
 // @description  Adds a red button in the top right corner of GitHub repository pages to display the repository size information in MB.
-// @author       Olsc
+// @author       ZUXTUO
 // @match        https://github.com/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
